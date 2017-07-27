@@ -7,7 +7,7 @@ if [ "$#" -ne 3 ]; then
 fi
 
 CLUSTER=$1
-CLOUDSQL=rentals
+CLOUDSQL=rentalss
 ZONE=$2
 NWORKERS=$3
 
